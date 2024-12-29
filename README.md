@@ -28,7 +28,7 @@ Welcome to the **Resume Builder Website**! This project is designed to help user
 
 Follow these steps to set up the project locally:
 
-##Frontend
+## Frontend
 1. 🔧 Clone the repository:
    ```bash
    git clone https://github.com/StephenThangarajA/Resume-Builder.git
@@ -53,7 +53,7 @@ Follow these steps to set up the project locally:
    npm run dev
    ```
 
-##Backend
+## Backend
 1. 📁 Install dependencies:
    ```bash
    npm install
