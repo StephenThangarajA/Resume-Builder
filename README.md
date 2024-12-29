@@ -116,6 +116,11 @@ Resume-Builder/
 │   └── tailwind.config.js
 ```
 
+## Design
+Here is how the app looks:
+
+![Home Page](screenshots/home_page.jpg)
+
 ## 🔒 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
