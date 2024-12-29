@@ -2,7 +2,7 @@
 
 Welcome to the **Resume Builder Website**! This project is designed to help users craft professional resumes, generate tailored cover letters, and evaluate ATS (Applicant Tracking System) and relevance scores with ease. 
 
-## Woring Demo 🎥
+## Working Demo 🎥
 
 https://drive.google.com/file/d/1BYSCKUweAbFr1XwCdeS2kkVWf_bGpPeS/view?usp=sharing
 
