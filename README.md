@@ -2,6 +2,10 @@
 
 Welcome to the **Resume Builder Website**! This project is designed to help users craft professional resumes, generate tailored cover letters, and evaluate ATS (Applicant Tracking System) and relevance scores with ease. 
 
+## Woring Demo 🎥
+
+https://drive.google.com/file/d/1BYSCKUweAbFr1XwCdeS2kkVWf_bGpPeS/view?usp=sharing
+
 ## 🔧 Features
 
 - 📊 **ATS Score Evaluation**: Discover how ATS-friendly your resume is.
@@ -115,11 +119,6 @@ Resume-Builder/
 │   ├── package.json         # Frontend dependencies
 │   └── tailwind.config.js
 ```
-
-## Design
-Here is how the app looks:
-
-![Home Page](screenshots/home_page.jpg)
 
 ## 🔒 License
 
