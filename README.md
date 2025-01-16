@@ -44,19 +44,6 @@ Follow these steps to set up the project locally:
    npm install
    ```
 
-3. 🏢 Set up Firebase:
-   - Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
-   - Enable authentication, Firestore, and hosting.
-   - Download the `firebaseConfig` file and place it in the project directory.
-
-4. 🔍 Configure the `.env` file:
-   - Add your Firebase configuration and other required environment variables.
-
-5. 🔄 Start the development server:
-   ```bash
-   npm run dev
-   ```
-
 ## Backend
 1. 📁 Install dependencies:
    ```bash
